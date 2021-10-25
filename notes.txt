@@ -1,0 +1,7 @@
+ERROR 1:
+
+Error == Uninitialized Constant
+Path == spec/oyster
+line number == 1
+Probable cause is there being no class or constant named Oyster_card 
+therefore a solution to this would be to create a class named this and require it. 
